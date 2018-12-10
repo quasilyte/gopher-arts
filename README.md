@@ -12,6 +12,7 @@ Examples of fair usages:
 
 ## Previews
 
+<img src="/img/Assembly_time&Go.png">
 <img src="/img/aviator.png">
 
 <table>
@@ -28,3 +29,8 @@ Examples of fair usages:
 
 </table>
 
+## Contributing
+
+Anyone can submit arts that have permissive license.
+
+Contributions are welcome!
