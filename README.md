@@ -12,7 +12,7 @@ Examples of fair usages:
 
 ## Previews
 
-<img src="/img/Assembly_time&Go.png">
+<img src="/img/Assembly_time&Go.png" width="60%" height="60%">
 <img src="/img/aviator.png">
 
 <table>
