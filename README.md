@@ -12,8 +12,6 @@ Examples of fair usages:
 
 ## Previews
 
-<img src="/img/aviator.png" width="50%" height="50%">
-
 <table>
 
 <tr>
