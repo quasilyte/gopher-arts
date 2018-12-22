@@ -10,6 +10,11 @@ Examples of fair usages:
 - Stickers for messengers (like Telegram)
 - Memes
 
+## Other sources
+
+* https://github.com/ashleymcnamara/gophers
+* https://github.com/shalakhin/gophericons
+
 ## Previews
 
 <table>
