@@ -20,6 +20,7 @@ Examples of fair usages:
 <table>
 
 <tr>
+  <td><img src="/img/snowman.png"></td>
   <td><img src="/img/Assembly_time&Go.png"></td>
   <td><img src="/img/rainbow.png"></td>
 </tr>
