@@ -26,6 +26,15 @@ Examples of fair usages:
 </tr>
 
 </table>
+<table>
+
+<tr>
+  <td><img src="/img/fire_elemental.png"></td>
+  <td><img src="/img/xcom_trooper.jpg"></td>
+  <td><img size="50%" src="/img/spotty_coffee_gopher.png"></td>
+</tr>
+
+</table>
 
 <table>
 
